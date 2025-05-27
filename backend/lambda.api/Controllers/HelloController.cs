@@ -9,7 +9,7 @@ namespace QuizGenie.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(new { message = "¡Hola desde QuizGenie API!" });
+            return Ok(new { message = "Connected to Lambda API successfully!" });
         }
     }
 }

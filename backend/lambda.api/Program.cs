@@ -2,28 +2,27 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-// (Opcional: agrega CORS si quieres exponer la API desde otros lugares)
+// Configure CORS with specific origin
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll", policy =>
+    options.AddPolicy("DevelopmentPolicy", policy =>
     {
-        policy.AllowAnyHeader()
+        policy.WithOrigins("http://localhost:4200")
               .AllowAnyMethod()
-              .AllowAnyOrigin();
+              .AllowAnyHeader()
+              .WithExposedHeaders("X-Pagination");
     });
 });
 
 var app = builder.Build();
 
-app.UseCors("AllowAll");
+// Use CORS before routing
+app.UseCors("DevelopmentPolicy");
 
-// Permitir servir archivos estáticos
-app.UseDefaultFiles();
-app.UseStaticFiles();
+// Enable routing and endpoint mapping
+app.UseRouting();
+app.UseAuthorization();
 
 app.MapControllers();
-
-// Catch-all para rutas del frontend Angular
-app.MapFallbackToFile("/index.html");
 
 app.Run();
