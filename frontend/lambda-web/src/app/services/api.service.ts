@@ -2,6 +2,9 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
+interface HelloResponse {
+  message: string;
+}
 
 @Injectable({ providedIn: 'root' })
 export class ApiService {
@@ -9,7 +12,7 @@ export class ApiService {
 
     constructor(private http: HttpClient) {}
 
-    getHello(): Observable<any> {
-        return this.http.get(`${this.apiUrl}/hello`);
+    getHello(): Observable<HelloResponse> {
+        return this.http.get<HelloResponse>(`${this.apiUrl}/hello`);
     }
 }

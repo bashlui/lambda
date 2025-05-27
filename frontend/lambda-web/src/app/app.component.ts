@@ -1,7 +1,8 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
+import { ApiService } from './services/api.service';
 
 @Component({
   selector: 'app-root',
@@ -19,6 +20,7 @@ import { HttpClientModule } from '@angular/common/http';
             <p class="text-lg mb-4">
               Generate custom problems in mathematics, physics, chemistry and more using advanced AI.
             </p>
+            <p class="text-green-400 mb-4">{{ apiMessage }}</p>
             <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full transition-all">
               Get Started
             </button>
@@ -29,6 +31,20 @@ import { HttpClientModule } from '@angular/common/http';
     <router-outlet />
   `
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'Lambda';
+  apiMessage = 'Connecting to API...';
+
+  constructor(private apiService: ApiService) {}
+
+  ngOnInit() {
+    this.apiService.getHello().subscribe({
+      next: (response) => {
+        this.apiMessage = response.message;
+      },
+      error: (error) => {
+        this.apiMessage = 'Error connecting to API: ' + error.message;
+      }
+    });
+  }
 }
