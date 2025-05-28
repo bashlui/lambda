@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "pw1uK4p2vov4JFdBrMQLOPa2QI8UsoA9SFNvbLaSJ8w=",
+  "Source": "lambda-api",
+  "BasePath": "_content/lambda-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lambda-api\\wwwroot",
+      "Source": "lambda-api",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\5lfpmqtd0i-2x1wx9h9om.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/3rdpartylicenses#[.{fingerprint=2x1wx9h9om}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n8vsx4gv44",
+      "Integrity": "2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\60fcab8q2h-o0nfa6aapm.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/index#[.{fingerprint=o0nfa6aapm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5vgjid8tlt",
+      "Integrity": "372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\7wr6iaerdq-o2141t8kba.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/main-Z4BS5AFE#[.{fingerprint=o2141t8kba}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hdzsqfsdd1",
+      "Integrity": "62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\ehvs0vfx4h-vagikyz9qx.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/favicon#[.{fingerprint=vagikyz9qx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spc2whqxhc",
+      "Integrity": "4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\hdx1uhbeov-pjm38qobjh.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/polyfills-B6TNHZQ6#[.{fingerprint=pjm38qobjh}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u66xw4iuhk",
+      "Integrity": "ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\nms9aix2fv-5ipweew5fc.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/styles-5INURTSO#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\qvmyp79e6f-tvy3j3n584.gz",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/prerendered-routes#[.{fingerprint=tvy3j3n584}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "flm15mbdxq",
+      "Integrity": "o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/3rdpartylicenses#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x1wx9h9om",
+      "Integrity": "tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\3rdpartylicenses.txt"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vagikyz9qx",
+      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\browser\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o0nfa6aapm",
+      "Integrity": "uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\browser\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/main-Z4BS5AFE#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2141t8kba",
+      "Integrity": "kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/polyfills-B6TNHZQ6#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjm38qobjh",
+      "Integrity": "5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/browser/styles-5INURTSO#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css"
+    },
+    {
+      "Identity": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json",
+      "SourceId": "lambda-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\",
+      "BasePath": "_content/lambda-api",
+      "RelativePath": "lambda-frontend/prerendered-routes#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tvy3j3n584",
+      "Integrity": "p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lambda-frontend\\prerendered-routes.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.2x1wx9h9om.txt",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\5lfpmqtd0i-2x1wx9h9om.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000205930807"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4855"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x1wx9h9om"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.2x1wx9h9om.txt",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x1wx9h9om"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/3rdpartylicenses.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.2x1wx9h9om.txt.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\5lfpmqtd0i-2x1wx9h9om.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x1wx9h9om"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/3rdpartylicenses.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\5lfpmqtd0i-2x1wx9h9om.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000205930807"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4855"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.txt",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqZE4lfF94sNCuBzTPXfBxwLsoDFYGyN3JXQxo17ZIw="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/3rdpartylicenses.txt.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\5lfpmqtd0i-2x1wx9h9om.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WHEJjvtbdeXcCK3XEPNQg/sOw4CMO1IjE5rT54XyaQ="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.ico",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\ehvs0vfx4h-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.ico",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.ico.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\ehvs0vfx4h-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\ehvs0vfx4h-vagikyz9qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000237360551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.vagikyz9qx.ico",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/favicon.vagikyz9qx.ico.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\ehvs0vfx4h-vagikyz9qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:56:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vagikyz9qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JD5TBkaKkYJVw5DzZh1jKJdCSTQYxpre7fdXrSQ/P8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.html",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\60fcab8q2h-o0nfa6aapm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003125000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.html",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.html.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\60fcab8q2h-o0nfa6aapm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.o0nfa6aapm.html",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\60fcab8q2h-o0nfa6aapm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003125000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0nfa6aapm"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.o0nfa6aapm.html",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0nfa6aapm"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uJuuyrY9jSrMBadR8oIJ7YqIjkfjimeqkxdCdih0ois="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/index.o0nfa6aapm.html.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\60fcab8q2h-o0nfa6aapm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0nfa6aapm"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-372rwQalTuCLFCDJGI9PRslg19ZuVg84Qx63GswehWg="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\7wr6iaerdq-o2141t8kba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000022748988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43957"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.js.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\7wr6iaerdq-o2141t8kba.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.o2141t8kba.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\7wr6iaerdq-o2141t8kba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000022748988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43957"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2141t8kba"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/main-Z4BS5AFE.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.o2141t8kba.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2141t8kba"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/main-Z4BS5AFE.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kGxG8YhciTnehar/uNrTAce/ngCMyXOR3N/GbdqGy1g="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/main-Z4BS5AFE.o2141t8kba.js.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\7wr6iaerdq-o2141t8kba.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2141t8kba"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/main-Z4BS5AFE.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-62cxyvcDWVSgGKqo6XuFIYjTbXDXgpKoXuGkXbNXfxQ="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\hdx1uhbeov-pjm38qobjh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079573486"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12566"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.js.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\hdx1uhbeov-pjm38qobjh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.pjm38qobjh.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\hdx1uhbeov-pjm38qobjh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000079573486"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12566"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/polyfills-B6TNHZQ6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.pjm38qobjh.js",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/polyfills-B6TNHZQ6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YQR23G5CGFsXCEtI3Pntat5BVx5h+CDbmSyWdpyUH8="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/polyfills-B6TNHZQ6.pjm38qobjh.js.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\hdx1uhbeov-pjm38qobjh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjm38qobjh"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/polyfills-B6TNHZQ6.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahI+y3qZTgyr/pzB1Jc6YHaVgZCrY62voNtaWhBMCnY="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\nms9aix2fv-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/styles-5INURTSO.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/styles-5INURTSO.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.5ipweew5fc.css.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\nms9aix2fv-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/browser/styles-5INURTSO.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.css",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\nms9aix2fv-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.css",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/browser/styles-5INURTSO.css.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\nms9aix2fv-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.json",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\qvmyp79e6f-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.json",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.json.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\qvmyp79e6f-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\qvmyp79e6f-tvy3j3n584.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025641025641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.tvy3j3n584.json",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/prerendered-routes.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p53cyKEVGQ6cGUee02kUdBp9HbdPChFTUp78gHJVBf4="
+        }
+      ]
+    },
+    {
+      "Route": "lambda-frontend/prerendered-routes.tvy3j3n584.json.gz",
+      "AssetFile": "C:\\Users\\luisb\\lambda_project\\lambda-api\\obj\\Debug\\net9.0\\compressed\\qvmyp79e6f-tvy3j3n584.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 15:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tvy3j3n584"
+        },
+        {
+          "Name": "label",
+          "Value": "lambda-frontend/prerendered-routes.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1VjVQwEDpUxfB4dvCKgJktgYa0JihcBq69Qd6fuU3I="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\lambda-frontend\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\favicon.ico",
+      "PackagePath": "staticwebassets\\lambda-frontend\\browser\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\index.html",
+      "PackagePath": "staticwebassets\\lambda-frontend\\browser\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\main-Z4BS5AFE.js",
+      "PackagePath": "staticwebassets\\lambda-frontend\\browser\\main-Z4BS5AFE.js"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js",
+      "PackagePath": "staticwebassets\\lambda-frontend\\browser\\polyfills-B6TNHZQ6.js"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\browser\\styles-5INURTSO.css",
+      "PackagePath": "staticwebassets\\lambda-frontend\\browser\\styles-5INURTSO.css"
+    },
+    {
+      "Id": "C:\\Users\\luisb\\lambda_project\\lambda-api\\wwwroot\\lambda-frontend\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\lambda-frontend\\prerendered-routes.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.lambda-api.props",
+      "PackagePath": "build\\lambda-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.lambda-api.props",
+      "PackagePath": "buildMultiTargeting\\lambda-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.lambda-api.props",
+      "PackagePath": "buildTransitive\\lambda-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.lambda-api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.lambda-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

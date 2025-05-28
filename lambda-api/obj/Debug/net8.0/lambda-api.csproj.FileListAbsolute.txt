@@ -1,0 +1,8 @@
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.csproj.AssemblyReference.cache
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.AssemblyInfoInputs.cache
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.AssemblyInfo.cs
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.csproj.CoreCompileInputs.cache
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisb\lambda_project\lambda-api\obj\Debug\net8.0\lambda-api.sourcelink.json
