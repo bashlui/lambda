@@ -1,0 +1,9 @@
+/* Los estilos principales están manejados por Tailwind CSS en el HTML */
+/* Aquí puedes agregar estilos adicionales específicos si los necesitas */
+
+.mobile-menu-button:focus {
+    outline: none;
+    ring-width: 2px;
+    ring-offset-width: 2px;
+    ring-color: rgb(59, 130, 246); /* blue-500 */
+  }
